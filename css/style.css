@@ -35,6 +35,7 @@ nav {
 }
 
 .content {
+  margin-right: 20%;
   padding-bottom: 4%;
   padding-left: 4%;
   padding-top: 4%;
@@ -43,14 +44,18 @@ nav {
 h1 {
   font-size: 1.5em;
   font-weight: bold;
+  width: 53%;
 }
 
 h3 {
   font-size: 1.20em;
   padding-top: 1%;
+  width: 87%;
 }
 
 .arrow {
   float: right;
-  padding-right: 4%;
+  margin-top: -10%;
+  padding-right: 6%;
+  width: 5%;
 }
